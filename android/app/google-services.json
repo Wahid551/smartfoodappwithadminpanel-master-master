@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "542546108327",
+    "project_id": "foodsmartappwithadminpanel",
+    "storage_bucket": "foodsmartappwithadminpanel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542546108327:android:d30d3c03c5baed760a2082",
+        "android_client_info": {
+          "package_name": "com.example.smartfoodappwithadminpanel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542546108327-gna34ec4eql9gemhv7u1e640sa4udmr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz79eNkTJ1zRi-n5vHmJ9mVHF5w-vfiUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542546108327-gna34ec4eql9gemhv7u1e640sa4udmr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
